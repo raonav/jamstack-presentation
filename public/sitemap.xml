@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/posts/we-should-just-stay-friends/</loc>
+    <lastmod>2018-04-21T14:23:02+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/youve-killed-me/</loc>
+    <lastmod>2018-04-21T14:22:25+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/last-night-was-a-mistake/</loc>
+    <lastmod>2018-04-21T14:21:25+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/i-dont-need-to-drink/</loc>
+    <lastmod>2018-04-21T14:20:34+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2018-04-21T14:01:47+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-04-21T14:23:02+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2018-04-21T14:23:02+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
