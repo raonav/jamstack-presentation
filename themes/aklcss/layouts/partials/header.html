@@ -11,10 +11,10 @@
 	{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
 	{{ .Hugo.Generator }}
 </head>
-<body class="w-100 sans-serif bg-white">
+<body class="w-100 sans-serif moon-gray bg-black">
 	<header class="">
 		<nav class="pa3 pa4-ns">
-			<a class="link dim black b f1 f-headline-ns tc db mb3 mb4-ns" href="{{ .Site.BaseURL }}" title="Home">{{ .Site.Title }}</a>
+			<a class="link dim color-inherit b f1 f-headline-ns tc db mb3 mb4-ns" href="{{ .Site.BaseURL }}" title="Home">{{ .Site.Title }}</a>
 		</nav>
         <nav>
 			<ul class="tc pb3 list">
