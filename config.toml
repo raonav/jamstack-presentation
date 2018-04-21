@@ -1,17 +1,21 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Perfectly Cromulent"
 theme = "aklcss"
+title = "Perfectly Cromulent"
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact"
+weight = 2
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+weight = 3
 [params]
-    author = "Navishkar Rao"
-    description = "Example site for the JAMstack presentation at Auckland CSS Meetup, April 2018"
-[menu]
-    [[menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
- 
-    [[menu.main]]
-        identifier = "contact"
-        name = "Contact"
-        url = "/contact"
+author = "Navishkar Rao"
+description = "Example site for the JAMstack presentation at Auckland CSS Meetup, April 2018"

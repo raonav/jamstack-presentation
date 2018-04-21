@@ -1,9 +1,8 @@
 ---
-title: "Youve Killed Me"
-date: 2018-04-21T14:22:25+12:00
-draft: false
----
+title: Youve Killed Me
+date: 2018-04-21 14:22:25 +1200
 
+---
 # You've killed me! Oh, you've killed me!
 
 Kif might! Wow, you got that off the Internet? In my day, the Internet was only used to download pornography. The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.

@@ -1,9 +1,8 @@
 ---
-title: "We Should Just Stay Friends"
-date: 2018-04-21T14:23:02+12:00
-draft: false
----
+title: We Should Just Stay Friends
+date: 2018-04-21 14:23:02 +1200
 
+---
 # Oh, I think we should just stay friends.
 
 Now Fry, it's been a few years since medical school, so remind me. Disemboweling in your species: fatal or non-fatal? We can't compete with Mom! Her company is big and evil! Ours is small and neutral! Hey, you add a one and two zeros to that or we walk!

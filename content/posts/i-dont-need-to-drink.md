@@ -1,9 +1,8 @@
 ---
-title: "I Dont Need to Drink"
-date: 2018-04-21T14:20:34+12:00
-draft: false
----
+title: I Dont Need to Drink
+date: 2018-04-21 14:20:34 +1200
 
+---
 # I don't 'need' to drink. I can quit anytime I want!
 
 You lived before you met me?! I could if you hadn't turned on the light and shut off my stereo. Eeeee! Now say "nuclear wessels"! Fry, we have a crate to deliver. Yep, I remember. They came in last at the Olympics, then retired to promote alcoholic beverages!

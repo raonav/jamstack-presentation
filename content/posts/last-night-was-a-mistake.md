@@ -1,9 +1,8 @@
 ---
-title: "Last Night Was a Mistake"
-date: 2018-04-21T14:21:25+12:00
-draft: false
----
+title: Last Night Was a Mistake
+date: 2018-04-21 14:21:25 +1200
 
+---
 # Look, last night was a mistake.
 
 Yep, I remember. They came in last at the Olympics, then retired to promote alcoholic beverages! Kids have names? That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him!
