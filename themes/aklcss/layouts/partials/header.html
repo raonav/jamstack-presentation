@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>{{ .Title }}</title>
+	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
+	{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
+	{{ .Hugo.Generator }}
+</head>
+<body class="w-100 sans-serif bg-white">
+	<header class="">
+		<nav class="pa3 pa4-ns">
+			<a class="link dim black b f1 f-headline-ns tc db mb3 mb4-ns" href="{{ .Site.BaseURL }}" title="Home">{{ .Site.Title }}</a>
+		</nav>
+        <nav>
+			<ul class="tc pb3 list">
+				{{ range .Site.Menus.main }}
+					<li><a class="link dim gray f6 f5-ns dib mr3" href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+				{{ end }}
+			</ul>
+		</nav>
+	</header>

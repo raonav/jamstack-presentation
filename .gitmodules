@@ -1,0 +1,6 @@
+[submodule "themes/aklcss"]
+	path = themes/aklcss
+	url = https://github.com/vimux/blank
+[submodule "themes/hugo-theme-one"]
+	path = themes/hugo-theme-one
+	url = git@github.com:resugary/hugo-theme-one.git

@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Perfectly Cromulent"
+theme = "aklcss"
+[params]
+    author = "Navishkar Rao"
+    description = "Example site for the JAMstack presentation at Auckland CSS Meetup, April 2018"
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"

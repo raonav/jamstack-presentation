@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+	<main class="mw7 center">
+        {{ range first 8 .Pages }}
+            {{ if eq .Type "posts" }}
+			    {{ partial "summary.html" . }}
+            {{ end }}
+        {{ end }}
+	</main>
+{{ partial "footer.html" . }}

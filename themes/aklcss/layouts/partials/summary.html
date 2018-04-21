@@ -1,0 +1,18 @@
+<article class="pv4 bb b--black-10 ph3 ph0-l">
+    <div class="flex flex-column flex-row-ns">
+        <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
+            <h1 class="f3 mt0 lh-title"><a class="link dim gray dib mr3" href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            <time class="f6 db gray">{{ .Date.Format "02.01.2006" }}</time>
+            <p class="f5 f4-l lh-copy">
+                {{ .Summary }}
+            </p>
+        </div>
+        <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
+            <img src="http://mrmrs.github.io/photos/whale.jpg" class="db" alt="Photo of a whale's tale coming crashing out of the water.">
+        </div>
+    </div>
+    {{ if .Truncated }}
+    <a href="{{ .Permalink }}" class="f6 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa1 ba border-box mr4">Read More...
+      </a>
+    {{ end }}
+</article>
