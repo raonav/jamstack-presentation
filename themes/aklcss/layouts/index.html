@@ -1,5 +1,6 @@
 {{ partial "header.html" . }}
-	<main class="mw7 center">
+	<main class="mw7 pa3 pa5-ns">
+        <h2 class="ph3 ph0-l">Latest Posts</h2>
         {{ range first 8 .Pages }}
             {{ if eq .Type "posts" }}
 			    {{ partial "summary.html" . }}
