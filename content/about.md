@@ -4,11 +4,9 @@ date: 2018-04-21 14:01:47 +1200
 type: page
 
 ---
-# Anyhoo, your net-suits will allow you to experience Fry's worm infested bowels as if you were actually wriggling through them.
-
 You know, I was God once. Are you crazy? I can't swallow that. Bite my shiny metal ass. Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! I feel like I was mauled by Jesus.
 
-Now, now. Perfectly symmetrical violence never solved anything. __Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!__ *Too much work.* Let's burn it and say we dumped it in the sewer.
+Now, now. Perfectly symmetrical violence never solved anything. **Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!** _Too much work._ Let's burn it and say we dumped it in the sewer.
 
 ## Yeah, lots of people did.
 
